@@ -25,7 +25,7 @@ Este é um projeto de estudos onde vou cumprir o desafio proposto pela desenvolv
 
 # Detalhes do desenvolvimento
 
-O projeto conta com um arquivo figma do layout final da pagina. Você pode conferir a imagem modelo da versão desktop [Aqui](https://user-images.githubusercontent.com/116113377/218261998-e8aa5f9e-2784-4eeb-828d-c2a0a4af1d6e.jpg).
+O projeto conta com um arquivo figma do layout final da pagina. Você pode conferir o modelo da versão desktop [Aqui](https://www.figma.com/file/kC2zzCNCowZrqcVHFfkROE/7daysOfCode?node-id=0%3A1&t=j3MmHJ6iH1GpgfH6-0).
 
 <br>
 
