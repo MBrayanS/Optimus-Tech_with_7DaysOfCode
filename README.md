@@ -13,8 +13,8 @@ Este é um projeto de estudos onde vou cumprir o desafio proposto pela desenvolv
 
 ## 7 Days of code
 
-#### 1 Day | NavBar :construction:
-#### 2 Day | Pendente... :hourglass:
+#### 1 Day | NavBar :heavy_check_mark:
+#### 2 Day | Cabeçalho :construction:
 #### 3 Day | Pendente... :hourglass:
 #### 4 Day | Pendente... :hourglass:
 #### 5 Day | Pendente... :hourglass:
