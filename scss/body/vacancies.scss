@@ -29,3 +29,50 @@
         height: auto;
     }
 }
+
+.vacancies__jobs {
+    @extend %center-content-column;
+    width: 76em;
+    height: auto;
+    gap: 4em;
+    margin-top: 4em;
+}
+
+.jobs__sector {
+    width: 48em;
+    height: auto;
+    display: grid;
+
+    h2, h3 {
+        color: $color-gray-900;
+    }
+
+    h2 {
+        margin-bottom: 1.6em;
+        font-size: 1.25em;
+        line-height: 1.5em;
+    }
+}
+
+.jobs__positions {
+    display: grid;
+    gap: 1.5em;
+}
+
+.jobs__office {
+    padding: 1.5em 1.5em 1.75em;
+    border: solid 1px $color-gray-200;
+    border-radius: 1em;
+
+    h3 {
+        font-size: 1.14em;
+        line-height: 1.55em;
+        margin-bottom: 1.77em;
+    }
+
+    span {
+        color: $color-gray-500;
+        line-height: 1.5em;
+        margin-right: 1.5em;
+    }
+}
