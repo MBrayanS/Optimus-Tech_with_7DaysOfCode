@@ -1,0 +1,36 @@
+footer {
+    @extend %center-content-column;
+    width: 100%;
+    height: max-content;
+    padding: 6em 0;
+
+    .section__title {
+        font-size: 2.25em;
+        margin-bottom: .56em;
+    }
+
+    .copy-right {
+        color: $color-gray-400;
+    }
+}
+
+.form-set-email {
+    width: max-content;
+    height: max-content;
+    display: flex;
+    gap: 1em;
+    margin: 2.5em 0 2em;
+    font-weight: 400;
+
+    input {
+        color: $color-gray-900;
+        width: 20.63em;
+        padding: .75em .88em .75em 1em;
+        border: 1px solid $color-gray-50;
+        border-radius: .5em;
+
+        &::placeholder{
+            color: $color-gray-500;
+        }
+    }
+}
