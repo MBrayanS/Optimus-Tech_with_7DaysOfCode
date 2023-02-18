@@ -17,9 +17,9 @@ Este é um projeto de estudos onde vou cumprir o desafio proposto pela desenvolv
 #### 2 Day | Cabeçalho :heavy_check_mark:
 #### 3 Day | Métricas :heavy_check_mark:
 #### 4 Day | Procurando talentos :heavy_check_mark:
-#### 5 Day | Vagas :construction:
-#### 6 Day | Pendente... :hourglass:
-#### 7 Day | Pendente... :hourglass:
+#### 5 Day | Vagas :heavy_check_mark:
+#### 6 Day | Depoimentos :heavy_check_mark:
+#### 7 Day | Rodapé :heavy_check_mark:
 
 <br>
 
