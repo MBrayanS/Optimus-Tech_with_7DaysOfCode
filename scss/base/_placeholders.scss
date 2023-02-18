@@ -8,3 +8,8 @@
     @extend %center-content;
     flex-direction: column;
 }
+
+%btn-pattern {
+    border: none;
+    padding: .75em 1.15em;
+}
