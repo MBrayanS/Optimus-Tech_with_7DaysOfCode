@@ -28,20 +28,10 @@
 .nav-bar__navegation-actions {
     display: flex;
     gap: .75em;
-
-    button {
-        border: none;
-        padding: .75em 1.15em;
-    }
 }
 
 .nav-bar__login {
+    @extend %btn-pattern;
     color: $color-gray-500;
     background-color: white;
-}
-
-.nav-bar__sign-in {
-    color: $color-gray-200;
-    background-color: $color-red;
-    border-radius: .5em;
 }
