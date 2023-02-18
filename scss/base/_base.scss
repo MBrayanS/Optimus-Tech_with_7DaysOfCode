@@ -5,6 +5,9 @@
     font-family: $font-pattern;
     font-size: 16px;
     font-weight: 500;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
 }
 
 body { width: 1440px; } //largura do layout no arquivo figma
